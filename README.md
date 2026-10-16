@@ -1,6 +1,7 @@
 <div align="center">
 
 
+
 # NiceDice
 
 **Um dado fluido em Jetpack Compose, feito para rodar bem até em celular pequeno.**
@@ -20,7 +21,8 @@ O **NiceDice** é um app Android de rolar dado. Você toca no dado (ou no botão
 
 Não usa nenhuma imagem: as seis faces são **desenhadas direto em código** com `Canvas`, então o dado fica nítido em qualquer tamanho de tela.
 
-<div align="center"
+<div align="center">
+
 </div>
 
 ## Como a animação funciona
