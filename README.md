@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="docs/dado-rolando.svg" alt="Dado rolando em animação" width="300"/>
 
 # NiceDice
 
