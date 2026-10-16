@@ -20,8 +20,7 @@ O **NiceDice** é um app Android de rolar dado. Você toca no dado (ou no botão
 
 Não usa nenhuma imagem: as seis faces são **desenhadas direto em código** com `Canvas`, então o dado fica nítido em qualquer tamanho de tela.
 
-<div align="center">
-<img src="docs/faces.svg" alt="As seis faces do dado" width="588"/>
+<div align="center"
 </div>
 
 ## Como a animação funciona
